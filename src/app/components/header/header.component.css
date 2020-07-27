@@ -1,0 +1,48 @@
+.navbar {
+  color: #ffffff;
+}
+
+.bg {
+  background-color: red;
+}
+
+.bg-secondary {
+  background-color: #858381;
+}
+
+button {
+  padding: 6px 10px;
+  background: #ddd;
+  border: none;
+  cursor: pointer;
+}
+
+.head {
+  font-size: 13px;
+  color: #000;
+}
+
+.arrow {
+  border: solid black;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+a {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+a:hover {
+  color: #000;
+  text-decoration: none;
+}

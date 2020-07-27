@@ -1,0 +1,14 @@
+.footer-text {
+  text-decoration: none;
+  color: white;
+}
+
+.first-section {
+  background-color: rgb(231, 0, 0);
+}
+.second-section {
+  background-color: rgb(180, 0, 0);
+}
+.third-section {
+  background-color: darkred;
+}
